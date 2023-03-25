@@ -1,0 +1,27 @@
+/**
+ * @name Naofumi team
+ * @author Nik_Play mobile
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/50773-naofumi-team.html
+ * @authorLink https://vsthemes.org/user/Nik_Play+mobile/
+ * @authorId 83233
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.05;
+    --messagetransparency: 0.4;
+    --guildchanneltransparency: 0.3;
+    --memberlistransparency: 0.2;
+    --accentcolor: 45,117,238;
+    --background: url("https://vsthemes.org/uploads/posts/2022-03/1648453067_thumb-1920-981840.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
