@@ -1,0 +1,27 @@
+/**
+ * @name Rias Gremory sexy 18+
+ * @author Ярослав Элриков
+ * @version auto updates
+ * @description Theme was created in generator https://vsthemes.org/generator/
+ * @source https://vsthemes.org/en/skins/discord/45126-rias-gremory-sexy-18.html
+ * @authorLink https://vsthemes.org/user/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2+%D0%AD%D0%BB%D1%80%D0%B8%D0%BA%D0%BE%D0%B2/
+ * @authorId 81912
+*/
+@import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+:root {
+    --transparencycolor: 0,0,0;
+    --transparencyalpha: 0.2;
+    --messagetransparency: 0.5;
+    --guildchanneltransparency: 0.2;
+    --memberlistransparency: 0;
+    --accentcolor: 130,0,0;
+    --background: url("https://vsthemes.org/uploads/posts/2021-10/1634069478_1094058-free-download-rias-gremory-wallpapers-1920x1080-for-mac.webp");
+    --backdrop: rgba(0,0,0,0.2);
+    --backgroundblur: 0px;
+    --popoutblur: 0px;
+    --backdropblur: 0px;
+    --version1_0_5:none;
+    --backgroundsize: cover;
+    --popoutsize: cover;
+    --backdropsize: cover;
+}
